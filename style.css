@@ -1,0 +1,59 @@
+body {
+	width: 100%;
+	max-width: 960px;
+	background: #777;
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	color: #777;
+}
+
+h1,
+h2,
+h3 {
+	text-align: center;
+}
+p {
+	line-height: 25px;
+}
+/* header styling */
+header {
+	background-color: #ebebeb;
+	text-align: center;	
+}
+
+/* navigation bar styling */
+nav {
+	background-color: #ebebeb;
+}
+#logo {
+
+}
+#links {
+	display: inline-block;
+}
+
+/* main area styling */
+
+.main {
+	background-color: #ebebeb;
+	float: left;
+	width: 495px;
+	padding: 5px;
+
+}
+
+.article {
+
+}
+
+.aside {
+	background-color: #ebebeb;
+	width: 455px;
+	float: right;
+}
+
+.footer {
+	background-color: #ebebeb;
+	text-align: center;
+	font-size: 18px;
+	clear: both;
+}
